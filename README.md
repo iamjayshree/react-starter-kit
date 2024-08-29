@@ -14,10 +14,8 @@ This starter kit helps if you prefer react, typescript, tailwindcss stack for de
 
 ## Getting Started
 
-1. **Clone the Repository:**
-   ```
-   git clone git@github.com:iamjayshree/react-starter-kit.git
-
-2. **Check if it's working:**
-   ```
-   npm run dev
+1. fork this repo
+2. create a new repo, while creating the new repo select this repo as the template
+3. clone your newly created repo
+4. type 'npm install' in the terminal
+5. type 'npm run dev' which runs the project
